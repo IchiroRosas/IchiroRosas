@@ -10,3 +10,5 @@ So far, I don't have any work experience, which is why I am actively seeking int
 
 Lastly, I consider myself someone with leadership abilities, capable of working in teams, exchanging ideas, and improving proposals to achieve high-quality work. Additionally, I am constantly seeking to learn and enhance my knowledge, which is why I am continually studying in search of improvement.
 
+<h1>💻 Tech Stack:</h1>
+
