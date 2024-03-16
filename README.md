@@ -9,6 +9,12 @@ Hello! My name is Raúl Ichiro Rosas Chinen. Currently, I'm a distinguished stud
 So far, I don't have any work experience, which is why I am actively seeking internships to apply everything I have learned until now and to learn more by tackling various challenges.
 
 Lastly, I consider myself someone with leadership abilities, capable of working in teams, exchanging ideas, and improving proposals to achieve high-quality work. Additionally, I am constantly seeking to learn and enhance my knowledge, which is why I am continually studying in search of improvement.
-
+<br><br><br>
 <h1>💻 Tech Stack:</h1>
+<h1>📊 GitHub Stats:</h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICHIBAN98)](https://github.com/ICHIBAN98/github-readme-stats)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ICHIBAN98&theme=radical&hide_border=false)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHIBAN98)](https://github.com/ICHIBAN98/github-readme-stats)
