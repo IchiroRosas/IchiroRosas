@@ -12,11 +12,11 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 <br><br><br><br>
 <h1>💻 Tech Stack:</h1>
 
-![**JAVA**](https://img.shields.io/badge/-JAVA-007396?logo=java&logoColor=white)
-![**HTML5**](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![**CSS3**](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![**JAVASCRIPT**](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black)
-![**MICROSOFT SQL SERVER**](https://img.shields.io/badge/-MICROSOFT%20SQL%20SERVER-CC2927?logo=microsoft-sql-server&logoColor=white)
+![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
+[![**HTML5**](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![**CSS3**](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![**JAVASCRIPT**](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![**MICROSOFT SQL SERVER**](https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 <h1>📊 GitHub Stats:</h1>
 
@@ -25,5 +25,8 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ICHIBAN98&theme=radical&hide_border=false)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHIBAN98)](https://github.com/ICHIBAN98/github-readme-stats)
+
+<h1>✉ Contact me::</h1>
+
 
 [![](https://visitcount.itsvg.in/api?id=ICHIBAN98&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
