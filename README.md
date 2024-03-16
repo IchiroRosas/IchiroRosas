@@ -26,7 +26,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHIBAN98)](https://github.com/ICHIBAN98/github-readme-stats)
 
-<h1>📬 Contact me::</h1>
+<h1>📬 Contact me:</h1>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-ichiro-rosas-chinen-893591150/)
 [![GMAIL](https://img.shields.io/badge/GMAIL-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Ichiro.Rosass@gmail.com)
