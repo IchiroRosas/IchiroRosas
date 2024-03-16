@@ -11,6 +11,13 @@ So far, I don't have any work experience, which is why I am actively seeking int
 Lastly, I consider myself someone with leadership abilities, capable of working in teams, exchanging ideas, and improving proposals to achieve high-quality work. Additionally, I am constantly seeking to learn and enhance my knowledge, which is why I am continually studying in search of improvement.
 <br><br><br><br>
 <h1>💻 Tech Stack:</h1>
+
+![JAVA](https://img.shields.io/badge/-JAVA-007396?logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black)
+![MICROSOFT SQL SERVER](https://img.shields.io/badge/-MICROSOFT%20SQL%20SERVER-CC2927?logo=microsoft-sql-server&logoColor=white)
+
 <h1>📊 GitHub Stats:</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICHIBAN98)](https://github.com/ICHIBAN98/github-readme-stats)
