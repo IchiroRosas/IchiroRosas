@@ -14,10 +14,6 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 <br><br>
 
-<h1>📚 Currently learning / Deepening my knowledge in:</h1>     
-
-![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
-
 <h1>💻 Tech Stack:</h1>
 
 ![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
@@ -27,6 +23,9 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 ![**SQL**](https://img.shields.io/badge/SQL-%23007396?style=flat-square&logo=sql&logoColor=white)
 ![**MICROSOFT SQL SERVER**](https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
+<h1>📚 Currently learning / Deepening my knowledge in:</h1>     
+
+![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
 
 <h1>📊 GitHub Stats:</h1>
 
