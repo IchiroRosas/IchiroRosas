@@ -10,9 +10,14 @@ So far, I don't have any work experience, which is why I am actively seeking int
 
 Lastly, I consider myself someone with leadership abilities, capable of working in teams, exchanging ideas, and improving proposals to achieve high-quality work. Additionally, I am constantly seeking to learn and enhance my knowledge, which is why I am continually studying in search of improvement.
 
-[![My CV](https://img.shields.io/badge/My%20CV-%23007396?style=flat-square)](https://github.com/ICHIBAN98/ICHIBAN98/blob/main/Ra%C3%BAl%20Ichiro%20Rosas%20Chinen%20-%20CV_en.pdf)
+[![Here is my CV](https://img.shields.io/badge/My%20CV-%23007396?style=flat-square)](https://github.com/ICHIBAN98/ICHIBAN98/blob/main/Ra%C3%BAl%20Ichiro%20Rosas%20Chinen%20-%20CV_en.pdf)
 
-<br><br><br><br>
+<br><br>
+
+<h1>📚 Currently learning / Deepening my knowledge in:</h1>     
+
+![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
+
 <h1>💻 Tech Stack:</h1>
 
 ![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
