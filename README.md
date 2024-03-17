@@ -9,6 +9,9 @@ Hello! My name is Raúl Ichiro Rosas Chinen. Currently, I'm an outstanding stude
 So far, I don't have any work experience, which is why I am actively seeking internships to apply everything I have learned until now and to learn more by tackling various challenges.
 
 Lastly, I consider myself someone with leadership abilities, capable of working in teams, exchanging ideas, and improving proposals to achieve high-quality work. Additionally, I am constantly seeking to learn and enhance my knowledge, which is why I am continually studying in search of improvement.
+
+[![My CV](https://img.shields.io/badge/My%20CV-%23007396?style=flat-square)](https://github.com/ICHIBAN98/ICHIBAN98/blob/main/Ra%C3%BAl%20Ichiro%20Rosas%20Chinen%20-%20CV_en.pdf)
+
 <br><br><br><br>
 <h1>💻 Tech Stack:</h1>
 
