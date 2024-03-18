@@ -29,7 +29,17 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 <h1>📊 GitHub Stats:</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICHIBAN98)](https://github.com/ICHIBAN98/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ICHIBAN98&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ICHIBAN98&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ICHIBAN98&show_icons=true" />
+</picture>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ICHIBAN98&theme=radical&hide_border=false)<br/>
 
