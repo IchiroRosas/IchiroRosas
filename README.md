@@ -43,7 +43,6 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 <br><br>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=ICHIBAN98&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poller+One&size=50&duration=3000&pause=2000&color=06E1EE&center=true&vCenter=true&random=false&width=1000&lines=Thank+you!)](https://git.io/typing-svg)
 
 ---
