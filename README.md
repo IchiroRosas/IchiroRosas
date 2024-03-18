@@ -41,7 +41,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
   <img src="https://github-readme-stats.vercel.app/api?username=ICHIBAN98&show_icons=true" />
 </picture>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ICHIBAN98&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ICHIBAN98&theme=light&hide_border=true)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHIBAN98&layout=compact)
 
