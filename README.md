@@ -22,6 +22,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 ![**JAVASCRIPT**](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![**SQL**](https://img.shields.io/badge/SQL-%23007396?style=flat-square&logo=sql&logoColor=white)
 ![**MICROSOFT SQL SERVER**](https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQLWorkbench](https://img.shields.io/badge/MySQLWorkbench-darkblue?style=flat-square&logo=mysql&logoColor=white)
 
 <h1>📚 Currently learning / Deepening my knowledge in:</h1>     
 
