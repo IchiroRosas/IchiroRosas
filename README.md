@@ -4,7 +4,7 @@
 <h1>ℹ️ About me:</h1>
 <img align="right" style="margin: 50px;" src="https://github.com/ICHIBAN98/ICHIBAN98/blob/main/readMeGift.gif" alt="" width="350" heigth="350" />
 
-Hello! My name is Raúl Ichiro Rosas Chinen. Currently, I'm an outstanding student pursuing a degree in Computer Science and Informatics at CIBERTEC, with a deep interest in Backend development.
+Hello! My name is Raúl Ichiro Rosas Chinen. Currently, I'm an outstanding student pursuing a degree in Computer Science at CIBERTEC, with a deep interest in Backend development and Database Administration.
 
 So far, I don't have any work experience, which is why I am actively seeking internships to apply everything I have learned until now and to learn more by tackling various challenges.
 
