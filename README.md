@@ -21,14 +21,14 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 ![**CSS3**](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![**JAVASCRIPT**](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![**SQL**](https://img.shields.io/badge/SQL-%23007396?style=flat-square&logo=sql&logoColor=white)
+![**.NET/C#**](https://img.shields.io/badge/.NET/C%23-7010C4?style=flat-square&logo=.net&logoColor=white)
+![**ECLIPSE IDE**](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
+![**Visual Studio Code**](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![**Visual Studio**](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![**IntelliJ IDEA**](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![**MICROSOFT SQL SERVER**](https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQLWorkbench](https://img.shields.io/badge/MySQLWorkbench-darkblue?style=flat-square&logo=mysql&logoColor=white)
-![**.NET/C#**](https://img.shields.io/badge/.NET/C%23-7010C4?style=flat-square&logo=.net&logoColor=white)
-
-
-<h1>📚 Currently learning / Deepening my knowledge in:</h1>     
-
-![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
+![**Postman**](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <h1>📊 GitHub Stats:</h1>
 
