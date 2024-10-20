@@ -34,19 +34,19 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ICHIBAN98&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=IchiroRosas&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ICHIBAN98&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=IchiroRosas&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ICHIBAN98&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IchiroRosas&show_icons=true" />
 </picture>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ICHIBAN98&theme=light&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IchiroRosas&theme=light&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHIBAN98&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroRosas&layout=compact)
 
 <h1>📬 Contact me:</h1>
 
