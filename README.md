@@ -16,13 +16,16 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 
 <h1>💻 Tech Stack:</h1>
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![**JAVA**](https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=java&logoColor=white)
 ![**HTML5**](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![**CSS3**](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![**JAVASCRIPT**](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![**SQL**](https://img.shields.io/badge/SQL-%23007396?style=flat-square&logo=sql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![**.NET/C#**](https://img.shields.io/badge/.NET/C%23-7010C4?style=flat-square&logo=.net&logoColor=white)
 ![**ECLIPSE IDE**](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
 ![**Visual Studio Code**](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![**Visual Studio**](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -31,6 +34,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 ![MySQLWorkbench](https://img.shields.io/badge/MySQLWorkbench-darkblue?style=flat-square&logo=mysql&logoColor=white)
 ![**Postman**](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![MongoDB Shell](https://img.shields.io/badge/MongoDB_Shell-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-FF8000?style=flat-square&logo=jasperreports&logoColor=white)
 
 <h1>📊 GitHub Stats:</h1>
 
