@@ -22,6 +22,7 @@ Lastly, I consider myself someone with leadership abilities, capable of working 
 ![**HTML5**](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![**CSS3**](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![**JAVASCRIPT**](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![**SQL**](https://img.shields.io/badge/SQL-%23007396?style=flat-square&logo=sql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
